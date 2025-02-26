@@ -1,0 +1,7253 @@
+Esperando señal GPS...
+----- Datos GPS -----
+Hora UTC: 145630.00
+Latitud: 22.782997 | Longitud: -102.615623
+Satélites: 04
+Altitud: 2383.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145631.00
+Latitud: 22.782995 | Longitud: -102.615623
+Satélites: 04
+Altitud: 2383.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145632.00
+Latitud: 22.782987 | Longitud: -102.615631
+Satélites: 04
+Altitud: 2383.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145633.00
+Latitud: 22.782978 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2383.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145634.00
+Latitud: 22.782974 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2382.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145635.00
+Latitud: 22.782970 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145636.00
+Latitud: 22.782970 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145637.00
+Latitud: 22.782966 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145638.00
+Latitud: 22.782968 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145639.00
+Latitud: 22.782962 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145640.00
+Latitud: 22.782953 | Longitud: -102.615661
+Satélites: 04
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145641.00
+Latitud: 22.782953 | Longitud: -102.615661
+Satélites: 04
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145642.00
+Latitud: 22.782955 | Longitud: -102.615661
+Satélites: 04
+Altitud: 2381.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145643.00
+Latitud: 22.782957 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2382.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145644.00
+Latitud: 22.782958 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2382.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145645.00
+Latitud: 22.782962 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2382.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145646.00
+Latitud: 22.782962 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2382.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145647.00
+Latitud: 22.782966 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2382.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145648.00
+Latitud: 22.782968 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2383.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145649.00
+Latitud: 22.782964 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2383.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145650.00
+Latitud: 22.782960 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2383.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145651.00
+Latitud: 22.782955 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2383.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145652.00
+Latitud: 22.782947 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2383.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145653.00
+Latitud: 22.782934 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145654.00
+Latitud: 22.782918 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2382.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145655.00
+Latitud: 22.782920 | Longitud: -102.615631
+Satélites: 04
+Altitud: 2382.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145656.00
+Latitud: 22.782909 | Longitud: -102.615631
+Satélites: 04
+Altitud: 2382.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145657.00
+Latitud: 22.782892 | Longitud: -102.615646
+Satélites: 04
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145658.00
+Latitud: 22.782876 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2381.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145659.00
+Latitud: 22.782865 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2381.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145700.00
+Latitud: 22.782869 | Longitud: -102.615638
+Satélites: 04
+Altitud: 2381.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145701.00
+Latitud: 22.782852 | Longitud: -102.615653
+Satélites: 04
+Altitud: 2380.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145702.00
+Latitud: 22.782827 | Longitud: -102.615669
+Satélites: 04
+Altitud: 2379.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145703.00
+Latitud: 22.782810 | Longitud: -102.615684
+Satélites: 04
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145704.00
+Latitud: 22.782794 | Longitud: -102.615692
+Satélites: 04
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145705.00
+Latitud: 22.782791 | Longitud: -102.615684
+Satélites: 04
+Altitud: 2378.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145706.00
+Latitud: 22.782791 | Longitud: -102.615669
+Satélites: 04
+Altitud: 2378.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145707.00
+Latitud: 22.782772 | Longitud: -102.615676
+Satélites: 04
+Altitud: 2380.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145708.00
+Latitud: 22.782800 | Longitud: -102.615623
+Satélites: 04
+Altitud: 2380.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145709.00
+Latitud: 22.782821 | Longitud: -102.615585
+Satélites: 04
+Altitud: 2381.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145710.00
+Latitud: 22.782846 | Longitud: -102.615562
+Satélites: 04
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145711.00
+Latitud: 22.782823 | Longitud: -102.615562
+Satélites: 04
+Altitud: 2375.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145712.00
+Latitud: 22.782835 | Longitud: -102.615539
+Satélites: 04
+Altitud: 2377.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145713.00
+Latitud: 22.782846 | Longitud: -102.615509
+Satélites: 04
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145714.00
+Latitud: 22.782865 | Longitud: -102.615478
+Satélites: 04
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145715.00
+Latitud: 22.782884 | Longitud: -102.615417
+Satélites: 04
+Altitud: 2380.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145716.00
+Latitud: 22.782890 | Longitud: -102.615394
+Satélites: 04
+Altitud: 2380.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145717.00
+Latitud: 22.782901 | Longitud: -102.615371
+Satélites: 04
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145718.00
+Latitud: 22.782897 | Longitud: -102.615364
+Satélites: 04
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145719.00
+Latitud: 22.782882 | Longitud: -102.615364
+Satélites: 04
+Altitud: 2380.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145720.00
+Latitud: 22.782882 | Longitud: -102.615356
+Satélites: 04
+Altitud: 2379.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145721.00
+Latitud: 22.782873 | Longitud: -102.615348
+Satélites: 04
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145722.00
+Latitud: 22.782871 | Longitud: -102.615341
+Satélites: 04
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145723.00
+Latitud: 22.782867 | Longitud: -102.615333
+Satélites: 04
+Altitud: 2378.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145724.00
+Latitud: 22.782867 | Longitud: -102.615325
+Satélites: 04
+Altitud: 2379.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145725.00
+Latitud: 22.782869 | Longitud: -102.615318
+Satélites: 04
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145726.00
+Latitud: 22.782875 | Longitud: -102.615303
+Satélites: 04
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145727.00
+Latitud: 22.782882 | Longitud: -102.615287
+Satélites: 04
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145728.00
+Latitud: 22.782892 | Longitud: -102.615272
+Satélites: 04
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145729.00
+Latitud: 22.782896 | Longitud: -102.615257
+Satélites: 04
+Altitud: 2379.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145730.00
+Latitud: 22.782896 | Longitud: -102.615249
+Satélites: 04
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145731.00
+Latitud: 22.782894 | Longitud: -102.615249
+Satélites: 04
+Altitud: 2376.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145732.00
+Latitud: 22.782911 | Longitud: -102.615219
+Satélites: 04
+Altitud: 2378.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145733.00
+Latitud: 22.782922 | Longitud: -102.615203
+Satélites: 04
+Altitud: 2378.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145734.00
+Latitud: 22.782920 | Longitud: -102.615196
+Satélites: 04
+Altitud: 2376.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145735.00
+Latitud: 22.782928 | Longitud: -102.615188
+Satélites: 04
+Altitud: 2374.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145736.00
+Latitud: 22.782930 | Longitud: -102.615180
+Satélites: 04
+Altitud: 2373.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145737.00
+Latitud: 22.782930 | Longitud: -102.615165
+Satélites: 04
+Altitud: 2375.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145738.00
+Latitud: 22.782930 | Longitud: -102.615158
+Satélites: 04
+Altitud: 2375.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145739.00
+Latitud: 22.782934 | Longitud: -102.615150
+Satélites: 04
+Altitud: 2373.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145740.00
+Latitud: 22.782936 | Longitud: -102.615135
+Satélites: 04
+Altitud: 2375.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145741.00
+Latitud: 22.782934 | Longitud: -102.615127
+Satélites: 04
+Altitud: 2374.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145742.00
+Latitud: 22.782928 | Longitud: -102.615127
+Satélites: 04
+Altitud: 2372.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145743.00
+Latitud: 22.782920 | Longitud: -102.615127
+Satélites: 04
+Altitud: 2369.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145744.00
+Latitud: 22.782913 | Longitud: -102.615127
+Satélites: 04
+Altitud: 2367.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145745.00
+Latitud: 22.782913 | Longitud: -102.615112
+Satélites: 04
+Altitud: 2367.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145746.00
+Latitud: 22.782903 | Longitud: -102.615112
+Satélites: 04
+Altitud: 2367.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145747.00
+Latitud: 22.782901 | Longitud: -102.615104
+Satélites: 04
+Altitud: 2365.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145748.00
+Latitud: 22.782901 | Longitud: -102.615089
+Satélites: 04
+Altitud: 2367.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145749.00
+Latitud: 22.782901 | Longitud: -102.615081
+Satélites: 04
+Altitud: 2368.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145750.00
+Latitud: 22.782901 | Longitud: -102.615066
+Satélites: 04
+Altitud: 2369.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145751.00
+Latitud: 22.782903 | Longitud: -102.615051
+Satélites: 04
+Altitud: 2370.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145752.00
+Latitud: 22.782905 | Longitud: -102.615043
+Satélites: 04
+Altitud: 2370.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145753.00
+Latitud: 22.782907 | Longitud: -102.615028
+Satélites: 04
+Altitud: 2371.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145754.00
+Latitud: 22.782907 | Longitud: -102.615020
+Satélites: 04
+Altitud: 2371.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145755.00
+Latitud: 22.782909 | Longitud: -102.615005
+Satélites: 04
+Altitud: 2372.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145756.00
+Latitud: 22.782909 | Longitud: -102.614990
+Satélites: 04
+Altitud: 2374.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145757.00
+Latitud: 22.782909 | Longitud: -102.614974
+Satélites: 04
+Altitud: 2375.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145758.00
+Latitud: 22.782909 | Longitud: -102.614967
+Satélites: 04
+Altitud: 2376.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145759.00
+Latitud: 22.782911 | Longitud: -102.614952
+Satélites: 04
+Altitud: 2377.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145800.00
+Latitud: 22.782917 | Longitud: -102.614929
+Satélites: 04
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145801.00
+Latitud: 22.782920 | Longitud: -102.614913
+Satélites: 04
+Altitud: 2382.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145802.00
+Latitud: 22.782920 | Longitud: -102.614898
+Satélites: 04
+Altitud: 2383.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145803.00
+Latitud: 22.782922 | Longitud: -102.614883
+Satélites: 04
+Altitud: 2384.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145804.00
+Latitud: 22.782924 | Longitud: -102.614875
+Satélites: 04
+Altitud: 2385.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145805.00
+Latitud: 22.782922 | Longitud: -102.614860
+Satélites: 04
+Altitud: 2385.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145806.00
+Latitud: 22.782932 | Longitud: -102.614837
+Satélites: 04
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145807.00
+Latitud: 22.782930 | Longitud: -102.614837
+Satélites: 04
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145808.00
+Latitud: 22.782928 | Longitud: -102.614822
+Satélites: 04
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145809.00
+Latitud: 22.782930 | Longitud: -102.614814
+Satélites: 04
+Altitud: 2387.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145810.00
+Latitud: 22.782932 | Longitud: -102.614807
+Satélites: 04
+Altitud: 2387.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145811.00
+Latitud: 22.782930 | Longitud: -102.614791
+Satélites: 04
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145812.00
+Latitud: 22.782930 | Longitud: -102.614784
+Satélites: 04
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145813.00
+Latitud: 22.782930 | Longitud: -102.614776
+Satélites: 04
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145814.00
+Latitud: 22.782932 | Longitud: -102.614761
+Satélites: 04
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145815.00
+Latitud: 22.782932 | Longitud: -102.614753
+Satélites: 04
+Altitud: 2388.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145816.00
+Latitud: 22.782934 | Longitud: -102.614738
+Satélites: 04
+Altitud: 2388.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145817.00
+Latitud: 22.782938 | Longitud: -102.614730
+Satélites: 04
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145818.00
+Latitud: 22.782939 | Longitud: -102.614715
+Satélites: 04
+Altitud: 2389.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145819.00
+Latitud: 22.782945 | Longitud: -102.614700
+Satélites: 04
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145820.00
+Latitud: 22.782941 | Longitud: -102.614692
+Satélites: 04
+Altitud: 2389.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145821.00
+Latitud: 22.782945 | Longitud: -102.614685
+Satélites: 04
+Altitud: 2389.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145822.00
+Latitud: 22.782949 | Longitud: -102.614677
+Satélites: 04
+Altitud: 2389.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145823.00
+Latitud: 22.782947 | Longitud: -102.614669
+Satélites: 04
+Altitud: 2388.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145824.00
+Latitud: 22.782947 | Longitud: -102.614654
+Satélites: 04
+Altitud: 2389.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145825.00
+Latitud: 22.782949 | Longitud: -102.614646
+Satélites: 04
+Altitud: 2388.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145826.00
+Latitud: 22.782947 | Longitud: -102.614631
+Satélites: 04
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145827.00
+Latitud: 22.782945 | Longitud: -102.614624
+Satélites: 04
+Altitud: 2388.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145828.00
+Latitud: 22.782947 | Longitud: -102.614616
+Satélites: 04
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145829.00
+Latitud: 22.782945 | Longitud: -102.614601
+Satélites: 04
+Altitud: 2388.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145830.00
+Latitud: 22.782947 | Longitud: -102.614585
+Satélites: 04
+Altitud: 2389.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145831.00
+Latitud: 22.782947 | Longitud: -102.614578
+Satélites: 04
+Altitud: 2390.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145832.00
+Latitud: 22.782949 | Longitud: -102.614562
+Satélites: 04
+Altitud: 2390.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145833.00
+Latitud: 22.782947 | Longitud: -102.614555
+Satélites: 04
+Altitud: 2390.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145834.00
+Latitud: 22.782947 | Longitud: -102.614540
+Satélites: 04
+Altitud: 2391.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145835.00
+Latitud: 22.782947 | Longitud: -102.614532
+Satélites: 04
+Altitud: 2391.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145836.00
+Latitud: 22.782947 | Longitud: -102.614524
+Satélites: 04
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145837.00
+Latitud: 22.782949 | Longitud: -102.614509
+Satélites: 04
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145838.00
+Latitud: 22.782949 | Longitud: -102.614501
+Satélites: 04
+Altitud: 2390.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145839.00
+Latitud: 22.782951 | Longitud: -102.614479
+Satélites: 04
+Altitud: 2392.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145840.00
+Latitud: 22.782953 | Longitud: -102.614471
+Satélites: 04
+Altitud: 2392.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145841.00
+Latitud: 22.782958 | Longitud: -102.614456
+Satélites: 04
+Altitud: 2393.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145842.00
+Latitud: 22.782964 | Longitud: -102.614440
+Satélites: 04
+Altitud: 2394.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145843.00
+Latitud: 22.782968 | Longitud: -102.614433
+Satélites: 04
+Altitud: 2395.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145844.00
+Latitud: 22.782976 | Longitud: -102.614418
+Satélites: 04
+Altitud: 2396.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145845.00
+Latitud: 22.782987 | Longitud: -102.614402
+Satélites: 04
+Altitud: 2396.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145846.00
+Latitud: 22.782995 | Longitud: -102.614402
+Satélites: 04
+Altitud: 2396.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145847.00
+Latitud: 22.783006 | Longitud: -102.614395
+Satélites: 04
+Altitud: 2397.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145848.00
+Latitud: 22.783016 | Longitud: -102.614395
+Satélites: 04
+Altitud: 2397.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145849.00
+Latitud: 22.783033 | Longitud: -102.614379
+Satélites: 04
+Altitud: 2397.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145850.00
+Latitud: 22.783044 | Longitud: -102.614379
+Satélites: 04
+Altitud: 2396.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145851.00
+Latitud: 22.783056 | Longitud: -102.614372
+Satélites: 04
+Altitud: 2395.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145852.00
+Latitud: 22.783065 | Longitud: -102.614372
+Satélites: 04
+Altitud: 2395.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145853.00
+Latitud: 22.783081 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2394.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145854.00
+Latitud: 22.783092 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2392.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145855.00
+Latitud: 22.783105 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2391.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145856.00
+Latitud: 22.783119 | Longitud: -102.614356
+Satélites: 04
+Altitud: 2389.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145857.00
+Latitud: 22.783138 | Longitud: -102.614349
+Satélites: 04
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145858.00
+Latitud: 22.783151 | Longitud: -102.614349
+Satélites: 04
+Altitud: 2390.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145859.00
+Latitud: 22.783163 | Longitud: -102.614341
+Satélites: 04
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145900.00
+Latitud: 22.783174 | Longitud: -102.614341
+Satélites: 04
+Altitud: 2390.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145901.00
+Latitud: 22.783187 | Longitud: -102.614341
+Satélites: 04
+Altitud: 2391.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145902.00
+Latitud: 22.783197 | Longitud: -102.614341
+Satélites: 04
+Altitud: 2390.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145903.00
+Latitud: 22.783210 | Longitud: -102.614334
+Satélites: 04
+Altitud: 2391.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145904.00
+Latitud: 22.783216 | Longitud: -102.614341
+Satélites: 04
+Altitud: 2391.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145905.00
+Latitud: 22.783216 | Longitud: -102.614349
+Satélites: 04
+Altitud: 2390.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145906.00
+Latitud: 22.783218 | Longitud: -102.614356
+Satélites: 04
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145907.00
+Latitud: 22.783222 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145908.00
+Latitud: 22.783233 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145909.00
+Latitud: 22.783243 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145910.00
+Latitud: 22.783254 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145911.00
+Latitud: 22.783264 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145912.00
+Latitud: 22.783273 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2388.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145913.00
+Latitud: 22.783279 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2387.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145914.00
+Latitud: 22.783285 | Longitud: -102.614364
+Satélites: 04
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145915.00
+Latitud: 22.783290 | Longitud: -102.614372
+Satélites: 04
+Altitud: 2387.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145916.00
+Latitud: 22.783294 | Longitud: -102.614372
+Satélites: 04
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145917.00
+Latitud: 22.783302 | Longitud: -102.614379
+Satélites: 04
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145918.00
+Latitud: 22.783308 | Longitud: -102.614379
+Satélites: 04
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145919.00
+Latitud: 22.783313 | Longitud: -102.614379
+Satélites: 04
+Altitud: 2386.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145920.00
+Latitud: 22.783317 | Longitud: -102.614387
+Satélites: 04
+Altitud: 2384.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145921.00
+Latitud: 22.783321 | Longitud: -102.614387
+Satélites: 04
+Altitud: 2384.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145922.00
+Latitud: 22.783325 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2382.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145923.00
+Latitud: 22.783327 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2382.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145924.00
+Latitud: 22.783330 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145925.00
+Latitud: 22.783336 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2381.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145926.00
+Latitud: 22.783344 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145927.00
+Latitud: 22.783355 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145928.00
+Latitud: 22.783367 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145929.00
+Latitud: 22.783378 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145930.00
+Latitud: 22.783390 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145931.00
+Latitud: 22.783397 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2382.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145932.00
+Latitud: 22.783405 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2382.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145933.00
+Latitud: 22.783409 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145934.00
+Latitud: 22.783412 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145935.00
+Latitud: 22.783418 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2381.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145936.00
+Latitud: 22.783424 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2383.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145937.00
+Latitud: 22.783433 | Longitud: -102.614379
+Satélites: 05
+Altitud: 2385.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145938.00
+Latitud: 22.783445 | Longitud: -102.614372
+Satélites: 05
+Altitud: 2388.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145939.00
+Latitud: 22.783454 | Longitud: -102.614372
+Satélites: 05
+Altitud: 2390.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145940.00
+Latitud: 22.783466 | Longitud: -102.614364
+Satélites: 05
+Altitud: 2392.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145941.00
+Latitud: 22.783475 | Longitud: -102.614364
+Satélites: 05
+Altitud: 2392.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145942.00
+Latitud: 22.783485 | Longitud: -102.614372
+Satélites: 05
+Altitud: 2393.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145943.00
+Latitud: 22.783494 | Longitud: -102.614379
+Satélites: 05
+Altitud: 2394.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145944.00
+Latitud: 22.783504 | Longitud: -102.614379
+Satélites: 05
+Altitud: 2394.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145945.00
+Latitud: 22.783514 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2395.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145946.00
+Latitud: 22.783523 | Longitud: -102.614387
+Satélites: 05
+Altitud: 2396.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145947.00
+Latitud: 22.783533 | Longitud: -102.614395
+Satélites: 05
+Altitud: 2396.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145948.00
+Latitud: 22.783542 | Longitud: -102.614402
+Satélites: 05
+Altitud: 2396.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145949.00
+Latitud: 22.783554 | Longitud: -102.614402
+Satélites: 05
+Altitud: 2397.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145950.00
+Latitud: 22.783563 | Longitud: -102.614410
+Satélites: 05
+Altitud: 2397.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145951.00
+Latitud: 22.783573 | Longitud: -102.614418
+Satélites: 05
+Altitud: 2398.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145952.00
+Latitud: 22.783582 | Longitud: -102.614418
+Satélites: 05
+Altitud: 2398.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145953.00
+Latitud: 22.783590 | Longitud: -102.614425
+Satélites: 05
+Altitud: 2398.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145954.00
+Latitud: 22.783597 | Longitud: -102.614425
+Satélites: 05
+Altitud: 2398.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145955.00
+Latitud: 22.783607 | Longitud: -102.614425
+Satélites: 05
+Altitud: 2399.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145956.00
+Latitud: 22.783620 | Longitud: -102.614433
+Satélites: 05
+Altitud: 2400.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145957.00
+Latitud: 22.783611 | Longitud: -102.614479
+Satélites: 04
+Altitud: 2391.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145958.00
+Latitud: 22.783626 | Longitud: -102.614486
+Satélites: 03
+Altitud: 2392.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 145959.00
+Latitud: 22.783639 | Longitud: -102.614494
+Satélites: 04
+Altitud: 2393.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150000.00
+Latitud: 22.783649 | Longitud: -102.614494
+Satélites: 04
+Altitud: 2394.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150001.00
+Latitud: 22.783664 | Longitud: -102.614501
+Satélites: 05
+Altitud: 2395.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150002.00
+Latitud: 22.783689 | Longitud: -102.614501
+Satélites: 05
+Altitud: 2395.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150003.00
+Latitud: 22.783702 | Longitud: -102.614509
+Satélites: 05
+Altitud: 2396.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150004.00
+Latitud: 22.783708 | Longitud: -102.614517
+Satélites: 05
+Altitud: 2396.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150005.00
+Latitud: 22.783716 | Longitud: -102.614524
+Satélites: 04
+Altitud: 2396.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150006.00
+Latitud: 22.783731 | Longitud: -102.614547
+Satélites: 04
+Altitud: 2396.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150007.00
+Latitud: 22.783748 | Longitud: -102.614562
+Satélites: 04
+Altitud: 2397.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150008.00
+Latitud: 22.783763 | Longitud: -102.614570
+Satélites: 03
+Altitud: 2397.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150009.00
+Latitud: 22.783779 | Longitud: -102.614578
+Satélites: 04
+Altitud: 2397.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150010.00
+Latitud: 22.783794 | Longitud: -102.614578
+Satélites: 04
+Altitud: 2397.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150011.00
+Latitud: 22.783809 | Longitud: -102.614585
+Satélites: 04
+Altitud: 2397.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150012.00
+Latitud: 22.783828 | Longitud: -102.614601
+Satélites: 03
+Altitud: 2397.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150013.00
+Latitud: 22.783836 | Longitud: -102.614585
+Satélites: 03
+Altitud: 2398.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150014.00
+Latitud: 22.783847 | Longitud: -102.614585
+Satélites: 03
+Altitud: 2398.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150015.00
+Latitud: 22.783859 | Longitud: -102.614593
+Satélites: 03
+Altitud: 2398.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150016.00
+Latitud: 22.783872 | Longitud: -102.614601
+Satélites: 03
+Altitud: 2398.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150017.00
+Latitud: 22.783889 | Longitud: -102.614624
+Satélites: 04
+Altitud: 2398.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150018.00
+Latitud: 22.783901 | Longitud: -102.614646
+Satélites: 04
+Altitud: 2398.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150019.00
+Latitud: 22.783916 | Longitud: -102.614654
+Satélites: 04
+Altitud: 2398.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150020.00
+Latitud: 22.783935 | Longitud: -102.614685
+Satélites: 04
+Altitud: 2398.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150021.00
+Latitud: 22.783948 | Longitud: -102.614700
+Satélites: 04
+Altitud: 2398.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150022.00
+Latitud: 22.783973 | Longitud: -102.614730
+Satélites: 04
+Altitud: 2398.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150023.00
+Latitud: 22.783983 | Longitud: -102.614715
+Satélites: 04
+Altitud: 2398.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150024.00
+Latitud: 22.783992 | Longitud: -102.614723
+Satélites: 04
+Altitud: 2398.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150025.00
+Latitud: 22.784002 | Longitud: -102.614715
+Satélites: 03
+Altitud: 2398.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150026.00
+Latitud: 22.784009 | Longitud: -102.614707
+Satélites: 03
+Altitud: 2398.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150027.00
+Latitud: 22.784013 | Longitud: -102.614692
+Satélites: 05
+Altitud: 2399.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150028.00
+Latitud: 22.784011 | Longitud: -102.614662
+Satélites: 05
+Altitud: 2399.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150029.00
+Latitud: 22.784029 | Longitud: -102.614677
+Satélites: 04
+Altitud: 2399.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150030.00
+Latitud: 22.784030 | Longitud: -102.614646
+Satélites: 04
+Altitud: 2399.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150031.00
+Latitud: 22.784025 | Longitud: -102.614601
+Satélites: 04
+Altitud: 2399.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150032.00
+Latitud: 22.783975 | Longitud: -102.614440
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150033.00
+Latitud: 22.783994 | Longitud: -102.614463
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150034.00
+Latitud: 22.783996 | Longitud: -102.614448
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150035.00
+Latitud: 22.784002 | Longitud: -102.614440
+Satélites: 05
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150036.00
+Latitud: 22.784008 | Longitud: -102.614440
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150037.00
+Latitud: 22.784008 | Longitud: -102.614456
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150038.00
+Latitud: 22.783990 | Longitud: -102.614479
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150039.00
+Latitud: 22.783933 | Longitud: -102.614509
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150040.00
+Latitud: 22.783878 | Longitud: -102.614532
+Satélites: 04
+Altitud: 2399.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150041.00
+Latitud: 22.783819 | Longitud: -102.614555
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150042.00
+Latitud: 22.783746 | Longitud: -102.614570
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150043.00
+Latitud: 22.783725 | Longitud: -102.614585
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150044.00
+Latitud: 22.783702 | Longitud: -102.614593
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150045.00
+Latitud: 22.783689 | Longitud: -102.614608
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150046.00
+Latitud: 22.783674 | Longitud: -102.614616
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150047.00
+Latitud: 22.783672 | Longitud: -102.614624
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150048.00
+Latitud: 22.783683 | Longitud: -102.614631
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150049.00
+Latitud: 22.783721 | Longitud: -102.614631
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150050.00
+Latitud: 22.783739 | Longitud: -102.614639
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150051.00
+Latitud: 22.783761 | Longitud: -102.614646
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150052.00
+Latitud: 22.783763 | Longitud: -102.614654
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150053.00
+Latitud: 22.783765 | Longitud: -102.614662
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150054.00
+Latitud: 22.783777 | Longitud: -102.614677
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150055.00
+Latitud: 22.783782 | Longitud: -102.614685
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150056.00
+Latitud: 22.783792 | Longitud: -102.614692
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150057.00
+Latitud: 22.783811 | Longitud: -102.614707
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150058.00
+Latitud: 22.783845 | Longitud: -102.614707
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150059.00
+Latitud: 22.783876 | Longitud: -102.614715
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150100.00
+Latitud: 22.783908 | Longitud: -102.614715
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150101.00
+Latitud: 22.783922 | Longitud: -102.614723
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150102.00
+Latitud: 22.783931 | Longitud: -102.614738
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150103.00
+Latitud: 22.783933 | Longitud: -102.614746
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150104.00
+Latitud: 22.783946 | Longitud: -102.614753
+Satélites: 04
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150105.00
+Latitud: 22.783981 | Longitud: -102.614753
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150106.00
+Latitud: 22.783987 | Longitud: -102.614761
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150107.00
+Latitud: 22.783990 | Longitud: -102.614776
+Satélites: 03
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150108.00
+Latitud: 22.784017 | Longitud: -102.614776
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150109.00
+Latitud: 22.784019 | Longitud: -102.614784
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150110.00
+Latitud: 22.784017 | Longitud: -102.614791
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150111.00
+Latitud: 22.784019 | Longitud: -102.614807
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150112.00
+Latitud: 22.784023 | Longitud: -102.614814
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150113.00
+Latitud: 22.784021 | Longitud: -102.614830
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150114.00
+Latitud: 22.784025 | Longitud: -102.614837
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150115.00
+Latitud: 22.784025 | Longitud: -102.614845
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150116.00
+Latitud: 22.784027 | Longitud: -102.614860
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150117.00
+Latitud: 22.784023 | Longitud: -102.614868
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150118.00
+Latitud: 22.784021 | Longitud: -102.614875
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150119.00
+Latitud: 22.784019 | Longitud: -102.614891
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150120.00
+Latitud: 22.784017 | Longitud: -102.614898
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150121.00
+Latitud: 22.784015 | Longitud: -102.614906
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150122.00
+Latitud: 22.784013 | Longitud: -102.614913
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150123.00
+Latitud: 22.784011 | Longitud: -102.614921
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150124.00
+Latitud: 22.784009 | Longitud: -102.614929
+Satélites: 05
+Altitud: 2399.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150125.00
+Latitud: 22.784008 | Longitud: -102.614944
+Satélites: 05
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150126.00
+Latitud: 22.784019 | Longitud: -102.614952
+Satélites: 05
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150127.00
+Latitud: 22.784027 | Longitud: -102.614959
+Satélites: 05
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150128.00
+Latitud: 22.784029 | Longitud: -102.614967
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150129.00
+Latitud: 22.784019 | Longitud: -102.614974
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150130.00
+Latitud: 22.784015 | Longitud: -102.614982
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150131.00
+Latitud: 22.784013 | Longitud: -102.614990
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150132.00
+Latitud: 22.784021 | Longitud: -102.614997
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150133.00
+Latitud: 22.784021 | Longitud: -102.614997
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150134.00
+Latitud: 22.784023 | Longitud: -102.615013
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150135.00
+Latitud: 22.784025 | Longitud: -102.615020
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150136.00
+Latitud: 22.784025 | Longitud: -102.615036
+Satélites: 04
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150137.00
+Latitud: 22.784030 | Longitud: -102.615043
+Satélites: 03
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150138.00
+Latitud: 22.784048 | Longitud: -102.615043
+Satélites: 03
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150139.00
+Latitud: 22.784061 | Longitud: -102.615051
+Satélites: 03
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150140.00
+Latitud: 22.784055 | Longitud: -102.615058
+Satélites: 03
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150141.00
+Latitud: 22.784051 | Longitud: -102.615074
+Satélites: 03
+Altitud: 2399.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150141.98
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150143.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150144.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150145.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150145.50
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 03
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150146.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 03
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150147.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 03
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150148.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150149.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150150.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150151.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150152.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150153.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150154.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150155.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150156.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150157.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 05
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150158.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 05
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150159.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 05
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150200.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150201.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 00
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150202.00
+Latitud: 0.000000 | Longitud: 0.000000
+Satélites: 04
+Altitud:  m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150203.00
+Latitud: 22.783603 | Longitud: -102.615501
+Satélites: 04
+Altitud: 2396.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150204.00
+Latitud: 22.783842 | Longitud: -102.615394
+Satélites: 04
+Altitud: 2396.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150205.00
+Latitud: 22.783975 | Longitud: -102.615348
+Satélites: 04
+Altitud: 2397.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150206.00
+Latitud: 22.784015 | Longitud: -102.615341
+Satélites: 04
+Altitud: 2397.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150207.00
+Latitud: 22.784013 | Longitud: -102.615341
+Satélites: 04
+Altitud: 2397.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150208.00
+Latitud: 22.784004 | Longitud: -102.615303
+Satélites: 05
+Altitud: 2394.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150209.00
+Latitud: 22.783977 | Longitud: -102.615310
+Satélites: 05
+Altitud: 2393.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150210.00
+Latitud: 22.783964 | Longitud: -102.615341
+Satélites: 05
+Altitud: 2392.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150211.00
+Latitud: 22.783943 | Longitud: -102.615325
+Satélites: 05
+Altitud: 2391.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150212.00
+Latitud: 22.783935 | Longitud: -102.615333
+Satélites: 05
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150213.00
+Latitud: 22.783931 | Longitud: -102.615341
+Satélites: 05
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150214.00
+Latitud: 22.783912 | Longitud: -102.615371
+Satélites: 05
+Altitud: 2388.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150215.00
+Latitud: 22.783916 | Longitud: -102.615379
+Satélites: 05
+Altitud: 2387.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150216.00
+Latitud: 22.783922 | Longitud: -102.615379
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150217.00
+Latitud: 22.783933 | Longitud: -102.615386
+Satélites: 05
+Altitud: 2386.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150218.00
+Latitud: 22.783937 | Longitud: -102.615394
+Satélites: 05
+Altitud: 2386.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150219.00
+Latitud: 22.783937 | Longitud: -102.615409
+Satélites: 05
+Altitud: 2386.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150220.00
+Latitud: 22.783937 | Longitud: -102.615425
+Satélites: 05
+Altitud: 2385.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150221.00
+Latitud: 22.783935 | Longitud: -102.615432
+Satélites: 05
+Altitud: 2384.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150222.00
+Latitud: 22.783939 | Longitud: -102.615440
+Satélites: 05
+Altitud: 2384.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150223.00
+Latitud: 22.783943 | Longitud: -102.615447
+Satélites: 05
+Altitud: 2384.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150224.00
+Latitud: 22.783948 | Longitud: -102.615455
+Satélites: 05
+Altitud: 2383.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150225.00
+Latitud: 22.783954 | Longitud: -102.615455
+Satélites: 05
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150226.00
+Latitud: 22.783960 | Longitud: -102.615463
+Satélites: 05
+Altitud: 2382.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150227.00
+Latitud: 22.783967 | Longitud: -102.615463
+Satélites: 05
+Altitud: 2381.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150228.00
+Latitud: 22.783969 | Longitud: -102.615463
+Satélites: 05
+Altitud: 2380.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150229.00
+Latitud: 22.783973 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150230.00
+Latitud: 22.783977 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2378.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150231.00
+Latitud: 22.783981 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150232.00
+Latitud: 22.783985 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150233.00
+Latitud: 22.783988 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2377.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150234.00
+Latitud: 22.783994 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2376.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150235.00
+Latitud: 22.784000 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2376.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150236.00
+Latitud: 22.784006 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2376.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150237.00
+Latitud: 22.784011 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2375.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150238.00
+Latitud: 22.784015 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2375.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150239.00
+Latitud: 22.784021 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2374.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150240.00
+Latitud: 22.784025 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2374.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150241.00
+Latitud: 22.784029 | Longitud: -102.615470
+Satélites: 05
+Altitud: 2373.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150242.00
+Latitud: 22.784032 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2372.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150243.00
+Latitud: 22.784036 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2372.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150244.00
+Latitud: 22.784044 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2372.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150245.00
+Latitud: 22.784049 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2372.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150246.00
+Latitud: 22.784053 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2371.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150247.00
+Latitud: 22.784059 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2371.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150248.00
+Latitud: 22.784063 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2370.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150249.00
+Latitud: 22.784067 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2370.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150250.00
+Latitud: 22.784072 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2370.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150251.00
+Latitud: 22.784078 | Longitud: -102.615478
+Satélites: 05
+Altitud: 2369.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150252.00
+Latitud: 22.784086 | Longitud: -102.615486
+Satélites: 05
+Altitud: 2369.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150253.00
+Latitud: 22.784095 | Longitud: -102.615486
+Satélites: 05
+Altitud: 2369.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150254.00
+Latitud: 22.784105 | Longitud: -102.615486
+Satélites: 05
+Altitud: 2369.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150255.00
+Latitud: 22.784114 | Longitud: -102.615486
+Satélites: 05
+Altitud: 2369.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150256.00
+Latitud: 22.784122 | Longitud: -102.615493
+Satélites: 05
+Altitud: 2369.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150257.00
+Latitud: 22.784132 | Longitud: -102.615501
+Satélites: 05
+Altitud: 2369.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150258.00
+Latitud: 22.784137 | Longitud: -102.615509
+Satélites: 05
+Altitud: 2368.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150259.00
+Latitud: 22.784143 | Longitud: -102.615516
+Satélites: 05
+Altitud: 2368.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150300.00
+Latitud: 22.784149 | Longitud: -102.615524
+Satélites: 05
+Altitud: 2368.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150301.00
+Latitud: 22.784152 | Longitud: -102.615531
+Satélites: 05
+Altitud: 2367.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150302.00
+Latitud: 22.784156 | Longitud: -102.615539
+Satélites: 05
+Altitud: 2367.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150303.00
+Latitud: 22.784162 | Longitud: -102.615547
+Satélites: 05
+Altitud: 2367.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150304.00
+Latitud: 22.784170 | Longitud: -102.615547
+Satélites: 05
+Altitud: 2367.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150305.00
+Latitud: 22.784177 | Longitud: -102.615554
+Satélites: 05
+Altitud: 2367.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150306.00
+Latitud: 22.784187 | Longitud: -102.615554
+Satélites: 05
+Altitud: 2366.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150307.00
+Latitud: 22.784196 | Longitud: -102.615554
+Satélites: 05
+Altitud: 2366.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150308.00
+Latitud: 22.784194 | Longitud: -102.615570
+Satélites: 05
+Altitud: 2366.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150309.00
+Latitud: 22.784191 | Longitud: -102.615577
+Satélites: 05
+Altitud: 2366.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150310.00
+Latitud: 22.784204 | Longitud: -102.615577
+Satélites: 05
+Altitud: 2366.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150311.00
+Latitud: 22.784210 | Longitud: -102.615585
+Satélites: 05
+Altitud: 2366.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150312.00
+Latitud: 22.784210 | Longitud: -102.615600
+Satélites: 05
+Altitud: 2366.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150313.00
+Latitud: 22.784210 | Longitud: -102.615608
+Satélites: 05
+Altitud: 2366.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150314.00
+Latitud: 22.784210 | Longitud: -102.615615
+Satélites: 05
+Altitud: 2366.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150315.00
+Latitud: 22.784212 | Longitud: -102.615631
+Satélites: 05
+Altitud: 2365.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150316.00
+Latitud: 22.784223 | Longitud: -102.615631
+Satélites: 05
+Altitud: 2365.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150317.00
+Latitud: 22.784217 | Longitud: -102.615646
+Satélites: 05
+Altitud: 2365.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150318.00
+Latitud: 22.784215 | Longitud: -102.615661
+Satélites: 05
+Altitud: 2365.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150319.00
+Latitud: 22.784215 | Longitud: -102.615669
+Satélites: 05
+Altitud: 2364.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150320.00
+Latitud: 22.784214 | Longitud: -102.615676
+Satélites: 05
+Altitud: 2364.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150321.00
+Latitud: 22.784225 | Longitud: -102.615684
+Satélites: 05
+Altitud: 2364.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150322.00
+Latitud: 22.784229 | Longitud: -102.615692
+Satélites: 05
+Altitud: 2364.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150323.00
+Latitud: 22.784229 | Longitud: -102.615707
+Satélites: 05
+Altitud: 2365.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150324.00
+Latitud: 22.784225 | Longitud: -102.615722
+Satélites: 05
+Altitud: 2365.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150325.00
+Latitud: 22.784229 | Longitud: -102.615722
+Satélites: 05
+Altitud: 2365.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150326.00
+Latitud: 22.784223 | Longitud: -102.615737
+Satélites: 05
+Altitud: 2364.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150327.00
+Latitud: 22.784217 | Longitud: -102.615753
+Satélites: 05
+Altitud: 2364.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150328.00
+Latitud: 22.784212 | Longitud: -102.615768
+Satélites: 05
+Altitud: 2364.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150329.00
+Latitud: 22.784208 | Longitud: -102.615783
+Satélites: 05
+Altitud: 2364.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150330.00
+Latitud: 22.784204 | Longitud: -102.615798
+Satélites: 05
+Altitud: 2364.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150331.00
+Latitud: 22.784202 | Longitud: -102.615806
+Satélites: 05
+Altitud: 2365.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150332.00
+Latitud: 22.784202 | Longitud: -102.615814
+Satélites: 05
+Altitud: 2366.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150333.00
+Latitud: 22.784198 | Longitud: -102.615829
+Satélites: 05
+Altitud: 2366.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150334.00
+Latitud: 22.784196 | Longitud: -102.615837
+Satélites: 05
+Altitud: 2366.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150335.00
+Latitud: 22.784194 | Longitud: -102.615852
+Satélites: 05
+Altitud: 2366.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150336.00
+Latitud: 22.784191 | Longitud: -102.615867
+Satélites: 05
+Altitud: 2366.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150337.00
+Latitud: 22.784196 | Longitud: -102.615875
+Satélites: 05
+Altitud: 2366.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150338.00
+Latitud: 22.784196 | Longitud: -102.615882
+Satélites: 05
+Altitud: 2366.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150339.00
+Latitud: 22.784194 | Longitud: -102.615890
+Satélites: 05
+Altitud: 2366.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150340.00
+Latitud: 22.784196 | Longitud: -102.615905
+Satélites: 05
+Altitud: 2367.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150341.00
+Latitud: 22.784198 | Longitud: -102.615921
+Satélites: 05
+Altitud: 2367.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150342.00
+Latitud: 22.784198 | Longitud: -102.615928
+Satélites: 05
+Altitud: 2367.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150343.00
+Latitud: 22.784202 | Longitud: -102.615936
+Satélites: 05
+Altitud: 2367.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150344.00
+Latitud: 22.784200 | Longitud: -102.615943
+Satélites: 05
+Altitud: 2367.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150345.00
+Latitud: 22.784196 | Longitud: -102.615959
+Satélites: 05
+Altitud: 2367.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150346.00
+Latitud: 22.784198 | Longitud: -102.615974
+Satélites: 05
+Altitud: 2368.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150347.00
+Latitud: 22.784194 | Longitud: -102.615982
+Satélites: 05
+Altitud: 2368.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150348.00
+Latitud: 22.784196 | Longitud: -102.615997
+Satélites: 05
+Altitud: 2369.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150349.00
+Latitud: 22.784196 | Longitud: -102.616004
+Satélites: 05
+Altitud: 2369.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150350.00
+Latitud: 22.784196 | Longitud: -102.616020
+Satélites: 05
+Altitud: 2369.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150351.00
+Latitud: 22.784193 | Longitud: -102.616027
+Satélites: 05
+Altitud: 2369.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150352.00
+Latitud: 22.784189 | Longitud: -102.616035
+Satélites: 05
+Altitud: 2369.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150353.00
+Latitud: 22.784193 | Longitud: -102.616043
+Satélites: 05
+Altitud: 2369.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150354.00
+Latitud: 22.784194 | Longitud: -102.616050
+Satélites: 05
+Altitud: 2369.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150355.00
+Latitud: 22.784191 | Longitud: -102.616058
+Satélites: 05
+Altitud: 2370.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150356.00
+Latitud: 22.784189 | Longitud: -102.616073
+Satélites: 05
+Altitud: 2370.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150357.00
+Latitud: 22.784187 | Longitud: -102.616081
+Satélites: 05
+Altitud: 2370.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150358.00
+Latitud: 22.784189 | Longitud: -102.616088
+Satélites: 05
+Altitud: 2370.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150359.00
+Latitud: 22.784194 | Longitud: -102.616104
+Satélites: 05
+Altitud: 2370.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150400.00
+Latitud: 22.784194 | Longitud: -102.616111
+Satélites: 05
+Altitud: 2370.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150401.00
+Latitud: 22.784194 | Longitud: -102.616127
+Satélites: 05
+Altitud: 2370.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150402.00
+Latitud: 22.784191 | Longitud: -102.616134
+Satélites: 05
+Altitud: 2370.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150403.00
+Latitud: 22.784187 | Longitud: -102.616149
+Satélites: 05
+Altitud: 2369.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150404.00
+Latitud: 22.784183 | Longitud: -102.616165
+Satélites: 05
+Altitud: 2369.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150405.00
+Latitud: 22.784181 | Longitud: -102.616172
+Satélites: 05
+Altitud: 2369.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150406.00
+Latitud: 22.784181 | Longitud: -102.616188
+Satélites: 05
+Altitud: 2369.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150407.00
+Latitud: 22.784179 | Longitud: -102.616195
+Satélites: 05
+Altitud: 2368.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150408.00
+Latitud: 22.784177 | Longitud: -102.616203
+Satélites: 05
+Altitud: 2368.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150409.00
+Latitud: 22.784177 | Longitud: -102.616210
+Satélites: 05
+Altitud: 2368.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150410.00
+Latitud: 22.784173 | Longitud: -102.616218
+Satélites: 05
+Altitud: 2368.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150411.00
+Latitud: 22.784166 | Longitud: -102.616226
+Satélites: 05
+Altitud: 2368.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150412.00
+Latitud: 22.784162 | Longitud: -102.616226
+Satélites: 05
+Altitud: 2368.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150413.00
+Latitud: 22.784158 | Longitud: -102.616226
+Satélites: 05
+Altitud: 2368.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150414.00
+Latitud: 22.784152 | Longitud: -102.616226
+Satélites: 05
+Altitud: 2369.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150415.00
+Latitud: 22.784143 | Longitud: -102.616233
+Satélites: 05
+Altitud: 2369.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150416.00
+Latitud: 22.784137 | Longitud: -102.616233
+Satélites: 05
+Altitud: 2370.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150417.00
+Latitud: 22.784126 | Longitud: -102.616233
+Satélites: 05
+Altitud: 2370.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150418.00
+Latitud: 22.784118 | Longitud: -102.616233
+Satélites: 05
+Altitud: 2370.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150419.00
+Latitud: 22.784105 | Longitud: -102.616241
+Satélites: 05
+Altitud: 2371.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150420.00
+Latitud: 22.784093 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2370.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150421.00
+Latitud: 22.784082 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2371.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150422.00
+Latitud: 22.784074 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2372.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150423.00
+Latitud: 22.784067 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2372.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150424.00
+Latitud: 22.784057 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2373.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150425.00
+Latitud: 22.784049 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2373.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150426.00
+Latitud: 22.784042 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2373.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150427.00
+Latitud: 22.784034 | Longitud: -102.616241
+Satélites: 05
+Altitud: 2373.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150428.00
+Latitud: 22.784027 | Longitud: -102.616241
+Satélites: 05
+Altitud: 2374.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150429.00
+Latitud: 22.784019 | Longitud: -102.616241
+Satélites: 05
+Altitud: 2375.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150430.00
+Latitud: 22.784011 | Longitud: -102.616256
+Satélites: 05
+Altitud: 2375.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150431.00
+Latitud: 22.784006 | Longitud: -102.616256
+Satélites: 05
+Altitud: 2376.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150432.00
+Latitud: 22.784002 | Longitud: -102.616256
+Satélites: 05
+Altitud: 2377.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150433.00
+Latitud: 22.783996 | Longitud: -102.616256
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150434.00
+Latitud: 22.783988 | Longitud: -102.616264
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150435.00
+Latitud: 22.783988 | Longitud: -102.616271
+Satélites: 05
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150436.00
+Latitud: 22.783985 | Longitud: -102.616279
+Satélites: 05
+Altitud: 2378.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150437.00
+Latitud: 22.783983 | Longitud: -102.616287
+Satélites: 05
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150438.00
+Latitud: 22.783983 | Longitud: -102.616294
+Satélites: 05
+Altitud: 2378.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150439.00
+Latitud: 22.783979 | Longitud: -102.616302
+Satélites: 05
+Altitud: 2378.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150440.00
+Latitud: 22.783979 | Longitud: -102.616310
+Satélites: 05
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150441.00
+Latitud: 22.783979 | Longitud: -102.616317
+Satélites: 05
+Altitud: 2378.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150442.00
+Latitud: 22.783975 | Longitud: -102.616333
+Satélites: 05
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150443.00
+Latitud: 22.783971 | Longitud: -102.616340
+Satélites: 05
+Altitud: 2378.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150444.00
+Latitud: 22.783969 | Longitud: -102.616348
+Satélites: 05
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150445.00
+Latitud: 22.783967 | Longitud: -102.616355
+Satélites: 05
+Altitud: 2377.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150446.00
+Latitud: 22.783969 | Longitud: -102.616371
+Satélites: 05
+Altitud: 2378.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150447.00
+Latitud: 22.783969 | Longitud: -102.616378
+Satélites: 05
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150448.00
+Latitud: 22.783967 | Longitud: -102.616386
+Satélites: 05
+Altitud: 2378.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150449.00
+Latitud: 22.783967 | Longitud: -102.616394
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150450.00
+Latitud: 22.783969 | Longitud: -102.616409
+Satélites: 05
+Altitud: 2379.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150451.00
+Latitud: 22.783969 | Longitud: -102.616416
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150452.00
+Latitud: 22.783969 | Longitud: -102.616424
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150453.00
+Latitud: 22.783969 | Longitud: -102.616439
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150454.00
+Latitud: 22.783969 | Longitud: -102.616447
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150455.00
+Latitud: 22.783967 | Longitud: -102.616455
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150456.00
+Latitud: 22.783967 | Longitud: -102.616462
+Satélites: 05
+Altitud: 2379.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150457.00
+Latitud: 22.783966 | Longitud: -102.616477
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150458.00
+Latitud: 22.783966 | Longitud: -102.616485
+Satélites: 05
+Altitud: 2379.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150459.00
+Latitud: 22.783964 | Longitud: -102.616500
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150500.00
+Latitud: 22.783964 | Longitud: -102.616508
+Satélites: 05
+Altitud: 2379.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150501.00
+Latitud: 22.783964 | Longitud: -102.616516
+Satélites: 05
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150502.00
+Latitud: 22.783962 | Longitud: -102.616531
+Satélites: 05
+Altitud: 2378.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150503.00
+Latitud: 22.783966 | Longitud: -102.616531
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150504.00
+Latitud: 22.783967 | Longitud: -102.616546
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150505.00
+Latitud: 22.783966 | Longitud: -102.616554
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150506.00
+Latitud: 22.783964 | Longitud: -102.616561
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150507.00
+Latitud: 22.783966 | Longitud: -102.616569
+Satélites: 05
+Altitud: 2379.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150508.00
+Latitud: 22.783966 | Longitud: -102.616577
+Satélites: 05
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150509.00
+Latitud: 22.783964 | Longitud: -102.616592
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150510.00
+Latitud: 22.783964 | Longitud: -102.616600
+Satélites: 05
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150511.00
+Latitud: 22.783962 | Longitud: -102.616615
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150512.00
+Latitud: 22.783960 | Longitud: -102.616630
+Satélites: 04
+Altitud: 2379.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150513.00
+Latitud: 22.783960 | Longitud: -102.616638
+Satélites: 05
+Altitud: 2379.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150514.00
+Latitud: 22.783956 | Longitud: -102.616645
+Satélites: 05
+Altitud: 2378.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150515.00
+Latitud: 22.783952 | Longitud: -102.616661
+Satélites: 05
+Altitud: 2378.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150516.00
+Latitud: 22.783950 | Longitud: -102.616668
+Satélites: 05
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150517.00
+Latitud: 22.783946 | Longitud: -102.616676
+Satélites: 05
+Altitud: 2378.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150518.00
+Latitud: 22.783943 | Longitud: -102.616683
+Satélites: 05
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150519.00
+Latitud: 22.783943 | Longitud: -102.616691
+Satélites: 05
+Altitud: 2378.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150520.00
+Latitud: 22.783943 | Longitud: -102.616699
+Satélites: 05
+Altitud: 2378.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150521.00
+Latitud: 22.783943 | Longitud: -102.616706
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150522.00
+Latitud: 22.783945 | Longitud: -102.616714
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150523.00
+Latitud: 22.783946 | Longitud: -102.616729
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150524.00
+Latitud: 22.783948 | Longitud: -102.616737
+Satélites: 05
+Altitud: 2379.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150525.00
+Latitud: 22.783948 | Longitud: -102.616744
+Satélites: 05
+Altitud: 2379.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150526.00
+Latitud: 22.783946 | Longitud: -102.616752
+Satélites: 05
+Altitud: 2380.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150527.00
+Latitud: 22.783946 | Longitud: -102.616767
+Satélites: 05
+Altitud: 2380.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150528.00
+Latitud: 22.783946 | Longitud: -102.616775
+Satélites: 05
+Altitud: 2380.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150529.00
+Latitud: 22.783948 | Longitud: -102.616783
+Satélites: 05
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150530.00
+Latitud: 22.783948 | Longitud: -102.616790
+Satélites: 05
+Altitud: 2381.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150531.00
+Latitud: 22.783948 | Longitud: -102.616806
+Satélites: 05
+Altitud: 2381.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150532.00
+Latitud: 22.783950 | Longitud: -102.616813
+Satélites: 05
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150533.00
+Latitud: 22.783952 | Longitud: -102.616821
+Satélites: 05
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150534.00
+Latitud: 22.783954 | Longitud: -102.616836
+Satélites: 05
+Altitud: 2381.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150535.00
+Latitud: 22.783956 | Longitud: -102.616844
+Satélites: 05
+Altitud: 2381.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150536.00
+Latitud: 22.783960 | Longitud: -102.616851
+Satélites: 05
+Altitud: 2380.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150537.00
+Latitud: 22.783962 | Longitud: -102.616859
+Satélites: 05
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150538.00
+Latitud: 22.783958 | Longitud: -102.616874
+Satélites: 05
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150539.00
+Latitud: 22.783958 | Longitud: -102.616882
+Satélites: 05
+Altitud: 2381.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150540.00
+Latitud: 22.783958 | Longitud: -102.616889
+Satélites: 05
+Altitud: 2381.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150541.00
+Latitud: 22.783956 | Longitud: -102.616897
+Satélites: 05
+Altitud: 2380.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150542.00
+Latitud: 22.783956 | Longitud: -102.616905
+Satélites: 05
+Altitud: 2380.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150543.00
+Latitud: 22.783960 | Longitud: -102.616912
+Satélites: 05
+Altitud: 2380.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150544.00
+Latitud: 22.783956 | Longitud: -102.616920
+Satélites: 05
+Altitud: 2380.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150545.00
+Latitud: 22.783956 | Longitud: -102.616928
+Satélites: 05
+Altitud: 2379.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150546.00
+Latitud: 22.783952 | Longitud: -102.616943
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150547.00
+Latitud: 22.783952 | Longitud: -102.616950
+Satélites: 05
+Altitud: 2378.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150548.00
+Latitud: 22.783950 | Longitud: -102.616958
+Satélites: 05
+Altitud: 2378.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150549.00
+Latitud: 22.783948 | Longitud: -102.616973
+Satélites: 05
+Altitud: 2378.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150550.00
+Latitud: 22.783948 | Longitud: -102.616981
+Satélites: 05
+Altitud: 2377.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150551.00
+Latitud: 22.783946 | Longitud: -102.616989
+Satélites: 05
+Altitud: 2377.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150552.00
+Latitud: 22.783948 | Longitud: -102.616996
+Satélites: 05
+Altitud: 2377.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150553.00
+Latitud: 22.783950 | Longitud: -102.617004
+Satélites: 05
+Altitud: 2377.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150554.00
+Latitud: 22.783954 | Longitud: -102.617012
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150555.00
+Latitud: 22.783962 | Longitud: -102.617019
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150556.00
+Latitud: 22.783962 | Longitud: -102.617027
+Satélites: 05
+Altitud: 2377.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150557.00
+Latitud: 22.783960 | Longitud: -102.617042
+Satélites: 05
+Altitud: 2377.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150558.00
+Latitud: 22.783958 | Longitud: -102.617050
+Satélites: 05
+Altitud: 2377.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150559.00
+Latitud: 22.783962 | Longitud: -102.617057
+Satélites: 05
+Altitud: 2376.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150600.00
+Latitud: 22.783960 | Longitud: -102.617073
+Satélites: 05
+Altitud: 2375.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150601.00
+Latitud: 22.783962 | Longitud: -102.617080
+Satélites: 05
+Altitud: 2375.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150602.00
+Latitud: 22.783960 | Longitud: -102.617095
+Satélites: 05
+Altitud: 2375.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150603.00
+Latitud: 22.783958 | Longitud: -102.617103
+Satélites: 05
+Altitud: 2375.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150604.00
+Latitud: 22.783956 | Longitud: -102.617111
+Satélites: 05
+Altitud: 2374.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150605.00
+Latitud: 22.783954 | Longitud: -102.617118
+Satélites: 05
+Altitud: 2375.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150606.00
+Latitud: 22.783954 | Longitud: -102.617126
+Satélites: 05
+Altitud: 2374.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150607.00
+Latitud: 22.783950 | Longitud: -102.617134
+Satélites: 05
+Altitud: 2374.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150608.00
+Latitud: 22.783945 | Longitud: -102.617141
+Satélites: 05
+Altitud: 2374.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150609.00
+Latitud: 22.783939 | Longitud: -102.617156
+Satélites: 05
+Altitud: 2375.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150610.00
+Latitud: 22.783935 | Longitud: -102.617164
+Satélites: 05
+Altitud: 2375.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150611.00
+Latitud: 22.783931 | Longitud: -102.617172
+Satélites: 05
+Altitud: 2375.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150612.00
+Latitud: 22.783927 | Longitud: -102.617179
+Satélites: 05
+Altitud: 2375.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150613.00
+Latitud: 22.783922 | Longitud: -102.617179
+Satélites: 05
+Altitud: 2375.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150614.00
+Latitud: 22.783918 | Longitud: -102.617179
+Satélites: 05
+Altitud: 2375.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150615.00
+Latitud: 22.783914 | Longitud: -102.617179
+Satélites: 05
+Altitud: 2375.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150616.00
+Latitud: 22.783908 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2375.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150617.00
+Latitud: 22.783905 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2375.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150618.00
+Latitud: 22.783899 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2375.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150619.00
+Latitud: 22.783895 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2376.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150620.00
+Latitud: 22.783893 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2376.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150621.00
+Latitud: 22.783889 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2376.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150622.00
+Latitud: 22.783885 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2376.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150623.00
+Latitud: 22.783882 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2376.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150624.00
+Latitud: 22.783878 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2376.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150625.00
+Latitud: 22.783874 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2377.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150626.00
+Latitud: 22.783868 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2377.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150627.00
+Latitud: 22.783861 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2377.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150628.00
+Latitud: 22.783853 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2377.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150629.00
+Latitud: 22.783845 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2377.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150630.00
+Latitud: 22.783842 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2378.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150631.00
+Latitud: 22.783836 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2378.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150632.00
+Latitud: 22.783834 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2378.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150633.00
+Latitud: 22.783830 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2378.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150634.00
+Latitud: 22.783824 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150635.00
+Latitud: 22.783819 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150636.00
+Latitud: 22.783813 | Longitud: -102.617202
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150637.00
+Latitud: 22.783805 | Longitud: -102.617202
+Satélites: 05
+Altitud: 2379.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150638.00
+Latitud: 22.783796 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150639.00
+Latitud: 22.783786 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150640.00
+Latitud: 22.783779 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150641.00
+Latitud: 22.783769 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150642.00
+Latitud: 22.783760 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150643.00
+Latitud: 22.783750 | Longitud: -102.617195
+Satélites: 05
+Altitud: 2379.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150644.00
+Latitud: 22.783744 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2380.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150645.00
+Latitud: 22.783733 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2380.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150646.00
+Latitud: 22.783725 | Longitud: -102.617187
+Satélites: 05
+Altitud: 2380.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150647.00
+Latitud: 22.783721 | Longitud: -102.617172
+Satélites: 05
+Altitud: 2380.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150648.00
+Latitud: 22.783716 | Longitud: -102.617164
+Satélites: 05
+Altitud: 2380.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150649.00
+Latitud: 22.783712 | Longitud: -102.617156
+Satélites: 05
+Altitud: 2380.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150650.00
+Latitud: 22.783706 | Longitud: -102.617141
+Satélites: 05
+Altitud: 2380.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150651.00
+Latitud: 22.783704 | Longitud: -102.617126
+Satélites: 05
+Altitud: 2380.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150652.00
+Latitud: 22.783700 | Longitud: -102.617118
+Satélites: 05
+Altitud: 2380.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150653.00
+Latitud: 22.783699 | Longitud: -102.617111
+Satélites: 05
+Altitud: 2380.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150654.00
+Latitud: 22.783699 | Longitud: -102.617095
+Satélites: 05
+Altitud: 2381.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150655.00
+Latitud: 22.783697 | Longitud: -102.617080
+Satélites: 05
+Altitud: 2381.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150656.00
+Latitud: 22.783695 | Longitud: -102.617065
+Satélites: 05
+Altitud: 2381.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150657.00
+Latitud: 22.783693 | Longitud: -102.617050
+Satélites: 05
+Altitud: 2381.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150658.00
+Latitud: 22.783685 | Longitud: -102.617050
+Satélites: 05
+Altitud: 2381.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150659.00
+Latitud: 22.783679 | Longitud: -102.617042
+Satélites: 05
+Altitud: 2381.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150700.00
+Latitud: 22.783672 | Longitud: -102.617034
+Satélites: 05
+Altitud: 2382.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150701.00
+Latitud: 22.783666 | Longitud: -102.617027
+Satélites: 05
+Altitud: 2382.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150702.00
+Latitud: 22.783662 | Longitud: -102.617012
+Satélites: 05
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150703.00
+Latitud: 22.783653 | Longitud: -102.617012
+Satélites: 05
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150704.00
+Latitud: 22.783647 | Longitud: -102.617012
+Satélites: 05
+Altitud: 2382.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150705.00
+Latitud: 22.783643 | Longitud: -102.617004
+Satélites: 05
+Altitud: 2382.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150706.00
+Latitud: 22.783639 | Longitud: -102.616996
+Satélites: 05
+Altitud: 2382.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150707.00
+Latitud: 22.783638 | Longitud: -102.616981
+Satélites: 05
+Altitud: 2382.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150708.00
+Latitud: 22.783634 | Longitud: -102.616973
+Satélites: 05
+Altitud: 2382.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150709.00
+Latitud: 22.783636 | Longitud: -102.616958
+Satélites: 05
+Altitud: 2382.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150710.00
+Latitud: 22.783632 | Longitud: -102.616950
+Satélites: 05
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150711.00
+Latitud: 22.783634 | Longitud: -102.616935
+Satélites: 05
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150712.00
+Latitud: 22.783632 | Longitud: -102.616928
+Satélites: 05
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150713.00
+Latitud: 22.783632 | Longitud: -102.616920
+Satélites: 05
+Altitud: 2383.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150714.00
+Latitud: 22.783634 | Longitud: -102.616912
+Satélites: 05
+Altitud: 2383.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150715.00
+Latitud: 22.783632 | Longitud: -102.616897
+Satélites: 05
+Altitud: 2383.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150716.00
+Latitud: 22.783634 | Longitud: -102.616889
+Satélites: 05
+Altitud: 2383.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150717.00
+Latitud: 22.783636 | Longitud: -102.616882
+Satélites: 05
+Altitud: 2383.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150718.00
+Latitud: 22.783638 | Longitud: -102.616874
+Satélites: 05
+Altitud: 2384.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150719.00
+Latitud: 22.783638 | Longitud: -102.616874
+Satélites: 05
+Altitud: 2384.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150720.00
+Latitud: 22.783638 | Longitud: -102.616867
+Satélites: 05
+Altitud: 2384.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150721.00
+Latitud: 22.783638 | Longitud: -102.616851
+Satélites: 05
+Altitud: 2384.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150722.00
+Latitud: 22.783634 | Longitud: -102.616844
+Satélites: 05
+Altitud: 2384.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150723.00
+Latitud: 22.783636 | Longitud: -102.616836
+Satélites: 05
+Altitud: 2384.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150724.00
+Latitud: 22.783632 | Longitud: -102.616821
+Satélites: 05
+Altitud: 2384.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150725.00
+Latitud: 22.783632 | Longitud: -102.616813
+Satélites: 05
+Altitud: 2384.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150726.00
+Latitud: 22.783630 | Longitud: -102.616806
+Satélites: 05
+Altitud: 2384.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150727.00
+Latitud: 22.783630 | Longitud: -102.616798
+Satélites: 05
+Altitud: 2384.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150728.00
+Latitud: 22.783628 | Longitud: -102.616790
+Satélites: 05
+Altitud: 2384.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150729.00
+Latitud: 22.783624 | Longitud: -102.616783
+Satélites: 05
+Altitud: 2384.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150730.00
+Latitud: 22.783624 | Longitud: -102.616767
+Satélites: 05
+Altitud: 2384.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150731.00
+Latitud: 22.783626 | Longitud: -102.616760
+Satélites: 05
+Altitud: 2384.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150732.00
+Latitud: 22.783628 | Longitud: -102.616752
+Satélites: 05
+Altitud: 2384.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150733.00
+Latitud: 22.783628 | Longitud: -102.616737
+Satélites: 05
+Altitud: 2385.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150734.00
+Latitud: 22.783628 | Longitud: -102.616729
+Satélites: 05
+Altitud: 2384.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150735.00
+Latitud: 22.783628 | Longitud: -102.616722
+Satélites: 05
+Altitud: 2385.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150736.00
+Latitud: 22.783628 | Longitud: -102.616714
+Satélites: 05
+Altitud: 2385.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150737.00
+Latitud: 22.783630 | Longitud: -102.616699
+Satélites: 05
+Altitud: 2385.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150738.00
+Latitud: 22.783632 | Longitud: -102.616691
+Satélites: 05
+Altitud: 2385.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150739.00
+Latitud: 22.783630 | Longitud: -102.616683
+Satélites: 05
+Altitud: 2385.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150740.00
+Latitud: 22.783628 | Longitud: -102.616676
+Satélites: 05
+Altitud: 2385.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150741.00
+Latitud: 22.783630 | Longitud: -102.616668
+Satélites: 05
+Altitud: 2385.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150742.00
+Latitud: 22.783632 | Longitud: -102.616653
+Satélites: 05
+Altitud: 2385.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150743.00
+Latitud: 22.783632 | Longitud: -102.616645
+Satélites: 05
+Altitud: 2385.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150744.00
+Latitud: 22.783632 | Longitud: -102.616630
+Satélites: 05
+Altitud: 2385.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150745.00
+Latitud: 22.783632 | Longitud: -102.616622
+Satélites: 05
+Altitud: 2385.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150746.00
+Latitud: 22.783632 | Longitud: -102.616615
+Satélites: 05
+Altitud: 2386.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150747.00
+Latitud: 22.783632 | Longitud: -102.616607
+Satélites: 05
+Altitud: 2386.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150748.00
+Latitud: 22.783632 | Longitud: -102.616592
+Satélites: 05
+Altitud: 2386.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150749.00
+Latitud: 22.783634 | Longitud: -102.616584
+Satélites: 05
+Altitud: 2386.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150750.00
+Latitud: 22.783638 | Longitud: -102.616577
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150751.00
+Latitud: 22.783638 | Longitud: -102.616569
+Satélites: 05
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150752.00
+Latitud: 22.783638 | Longitud: -102.616561
+Satélites: 05
+Altitud: 2387.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150753.00
+Latitud: 22.783638 | Longitud: -102.616546
+Satélites: 05
+Altitud: 2387.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150754.00
+Latitud: 22.783634 | Longitud: -102.616539
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150755.00
+Latitud: 22.783636 | Longitud: -102.616523
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150756.00
+Latitud: 22.783638 | Longitud: -102.616516
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150757.00
+Latitud: 22.783639 | Longitud: -102.616500
+Satélites: 05
+Altitud: 2388.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150758.00
+Latitud: 22.783639 | Longitud: -102.616493
+Satélites: 05
+Altitud: 2388.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150759.00
+Latitud: 22.783641 | Longitud: -102.616477
+Satélites: 05
+Altitud: 2388.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150800.00
+Latitud: 22.783645 | Longitud: -102.616462
+Satélites: 05
+Altitud: 2388.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150801.00
+Latitud: 22.783643 | Longitud: -102.616447
+Satélites: 05
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150802.00
+Latitud: 22.783643 | Longitud: -102.616439
+Satélites: 05
+Altitud: 2389.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150803.00
+Latitud: 22.783643 | Longitud: -102.616424
+Satélites: 05
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150804.00
+Latitud: 22.783645 | Longitud: -102.616416
+Satélites: 05
+Altitud: 2389.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150805.00
+Latitud: 22.783645 | Longitud: -102.616401
+Satélites: 05
+Altitud: 2389.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150806.00
+Latitud: 22.783647 | Longitud: -102.616394
+Satélites: 05
+Altitud: 2390.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150807.00
+Latitud: 22.783645 | Longitud: -102.616386
+Satélites: 05
+Altitud: 2390.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150808.00
+Latitud: 22.783641 | Longitud: -102.616378
+Satélites: 05
+Altitud: 2389.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150809.00
+Latitud: 22.783641 | Longitud: -102.616378
+Satélites: 05
+Altitud: 2389.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150810.00
+Latitud: 22.783647 | Longitud: -102.616363
+Satélites: 05
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150811.00
+Latitud: 22.783647 | Longitud: -102.616355
+Satélites: 05
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150812.00
+Latitud: 22.783645 | Longitud: -102.616348
+Satélites: 05
+Altitud: 2390.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150813.00
+Latitud: 22.783645 | Longitud: -102.616340
+Satélites: 05
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150814.00
+Latitud: 22.783647 | Longitud: -102.616333
+Satélites: 05
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150815.00
+Latitud: 22.783647 | Longitud: -102.616325
+Satélites: 05
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150816.00
+Latitud: 22.783647 | Longitud: -102.616317
+Satélites: 05
+Altitud: 2390.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150817.00
+Latitud: 22.783647 | Longitud: -102.616302
+Satélites: 05
+Altitud: 2390.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150818.00
+Latitud: 22.783645 | Longitud: -102.616294
+Satélites: 05
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150819.00
+Latitud: 22.783643 | Longitud: -102.616287
+Satélites: 05
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150820.00
+Latitud: 22.783638 | Longitud: -102.616279
+Satélites: 05
+Altitud: 2389.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150821.00
+Latitud: 22.783638 | Longitud: -102.616271
+Satélites: 05
+Altitud: 2389.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150822.00
+Latitud: 22.783636 | Longitud: -102.616264
+Satélites: 05
+Altitud: 2389.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150823.00
+Latitud: 22.783632 | Longitud: -102.616256
+Satélites: 05
+Altitud: 2389.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150824.00
+Latitud: 22.783632 | Longitud: -102.616249
+Satélites: 05
+Altitud: 2388.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150825.00
+Latitud: 22.783636 | Longitud: -102.616241
+Satélites: 05
+Altitud: 2388.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150826.00
+Latitud: 22.783632 | Longitud: -102.616226
+Satélites: 05
+Altitud: 2388.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150827.00
+Latitud: 22.783628 | Longitud: -102.616218
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150828.00
+Latitud: 22.783626 | Longitud: -102.616203
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150829.00
+Latitud: 22.783622 | Longitud: -102.616195
+Satélites: 05
+Altitud: 2387.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150830.00
+Latitud: 22.783620 | Longitud: -102.616180
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150831.00
+Latitud: 22.783617 | Longitud: -102.616172
+Satélites: 05
+Altitud: 2387.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150832.00
+Latitud: 22.783615 | Longitud: -102.616157
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150833.00
+Latitud: 22.783615 | Longitud: -102.616149
+Satélites: 05
+Altitud: 2386.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150834.00
+Latitud: 22.783613 | Longitud: -102.616134
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150835.00
+Latitud: 22.783613 | Longitud: -102.616119
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150836.00
+Latitud: 22.783611 | Longitud: -102.616111
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150837.00
+Latitud: 22.783611 | Longitud: -102.616096
+Satélites: 05
+Altitud: 2387.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150838.00
+Latitud: 22.783607 | Longitud: -102.616088
+Satélites: 05
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150839.00
+Latitud: 22.783605 | Longitud: -102.616073
+Satélites: 05
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150840.00
+Latitud: 22.783605 | Longitud: -102.616065
+Satélites: 05
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150841.00
+Latitud: 22.783605 | Longitud: -102.616050
+Satélites: 05
+Altitud: 2387.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150842.00
+Latitud: 22.783603 | Longitud: -102.616043
+Satélites: 05
+Altitud: 2387.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150843.00
+Latitud: 22.783603 | Longitud: -102.616027
+Satélites: 05
+Altitud: 2387.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150844.00
+Latitud: 22.783601 | Longitud: -102.616020
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150845.00
+Latitud: 22.783597 | Longitud: -102.616012
+Satélites: 05
+Altitud: 2386.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150846.00
+Latitud: 22.783597 | Longitud: -102.616004
+Satélites: 05
+Altitud: 2386.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150847.00
+Latitud: 22.783597 | Longitud: -102.615989
+Satélites: 05
+Altitud: 2386.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150848.00
+Latitud: 22.783597 | Longitud: -102.615982
+Satélites: 05
+Altitud: 2386.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150849.00
+Latitud: 22.783596 | Longitud: -102.615966
+Satélites: 05
+Altitud: 2386.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150850.00
+Latitud: 22.783596 | Longitud: -102.615959
+Satélites: 05
+Altitud: 2386.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150851.00
+Latitud: 22.783596 | Longitud: -102.615951
+Satélites: 05
+Altitud: 2386.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150852.00
+Latitud: 22.783594 | Longitud: -102.615936
+Satélites: 05
+Altitud: 2386.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150853.00
+Latitud: 22.783594 | Longitud: -102.615928
+Satélites: 05
+Altitud: 2386.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150854.00
+Latitud: 22.783594 | Longitud: -102.615913
+Satélites: 05
+Altitud: 2386.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150855.00
+Latitud: 22.783594 | Longitud: -102.615905
+Satélites: 05
+Altitud: 2386.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150856.00
+Latitud: 22.783594 | Longitud: -102.615898
+Satélites: 05
+Altitud: 2386.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150857.00
+Latitud: 22.783596 | Longitud: -102.615882
+Satélites: 05
+Altitud: 2386.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150858.00
+Latitud: 22.783596 | Longitud: -102.615867
+Satélites: 05
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150859.00
+Latitud: 22.783596 | Longitud: -102.615859
+Satélites: 05
+Altitud: 2387.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150900.00
+Latitud: 22.783597 | Longitud: -102.615844
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150901.00
+Latitud: 22.783597 | Longitud: -102.615837
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150902.00
+Latitud: 22.783597 | Longitud: -102.615829
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150903.00
+Latitud: 22.783597 | Longitud: -102.615814
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150904.00
+Latitud: 22.783596 | Longitud: -102.615806
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150905.00
+Latitud: 22.783594 | Longitud: -102.615798
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150906.00
+Latitud: 22.783592 | Longitud: -102.615783
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150907.00
+Latitud: 22.783590 | Longitud: -102.615776
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150908.00
+Latitud: 22.783590 | Longitud: -102.615768
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150909.00
+Latitud: 22.783592 | Longitud: -102.615760
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150910.00
+Latitud: 22.783590 | Longitud: -102.615745
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150911.00
+Latitud: 22.783588 | Longitud: -102.615737
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150912.00
+Latitud: 22.783588 | Longitud: -102.615730
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150913.00
+Latitud: 22.783588 | Longitud: -102.615715
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150914.00
+Latitud: 22.783590 | Longitud: -102.615707
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150915.00
+Latitud: 22.783590 | Longitud: -102.615699
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150916.00
+Latitud: 22.783588 | Longitud: -102.615684
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150917.00
+Latitud: 22.783588 | Longitud: -102.615676
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150918.00
+Latitud: 22.783586 | Longitud: -102.615669
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150919.00
+Latitud: 22.783586 | Longitud: -102.615661
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150920.00
+Latitud: 22.783586 | Longitud: -102.615646
+Satélites: 05
+Altitud: 2387.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150921.00
+Latitud: 22.783584 | Longitud: -102.615638
+Satélites: 05
+Altitud: 2387.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150922.00
+Latitud: 22.783584 | Longitud: -102.615631
+Satélites: 05
+Altitud: 2387.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150923.00
+Latitud: 22.783582 | Longitud: -102.615623
+Satélites: 05
+Altitud: 2387.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150924.00
+Latitud: 22.783580 | Longitud: -102.615615
+Satélites: 05
+Altitud: 2387.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150925.00
+Latitud: 22.783580 | Longitud: -102.615600
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150926.00
+Latitud: 22.783580 | Longitud: -102.615592
+Satélites: 05
+Altitud: 2387.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150927.00
+Latitud: 22.783578 | Longitud: -102.615585
+Satélites: 05
+Altitud: 2387.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150928.00
+Latitud: 22.783576 | Longitud: -102.615570
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150929.00
+Latitud: 22.783575 | Longitud: -102.615562
+Satélites: 05
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150930.00
+Latitud: 22.783573 | Longitud: -102.615554
+Satélites: 05
+Altitud: 2387.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150931.00
+Latitud: 22.783571 | Longitud: -102.615539
+Satélites: 05
+Altitud: 2388.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150932.00
+Latitud: 22.783567 | Longitud: -102.615531
+Satélites: 05
+Altitud: 2388.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150933.00
+Latitud: 22.783565 | Longitud: -102.615524
+Satélites: 05
+Altitud: 2388.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150934.00
+Latitud: 22.783563 | Longitud: -102.615516
+Satélites: 05
+Altitud: 2388.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150935.00
+Latitud: 22.783561 | Longitud: -102.615509
+Satélites: 06
+Altitud: 2387.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150936.00
+Latitud: 22.783557 | Longitud: -102.615501
+Satélites: 06
+Altitud: 2387.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150937.00
+Latitud: 22.783554 | Longitud: -102.615486
+Satélites: 06
+Altitud: 2388.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150938.00
+Latitud: 22.783552 | Longitud: -102.615478
+Satélites: 06
+Altitud: 2388.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150939.00
+Latitud: 22.783552 | Longitud: -102.615470
+Satélites: 06
+Altitud: 2389.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150940.00
+Latitud: 22.783550 | Longitud: -102.615463
+Satélites: 06
+Altitud: 2389.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150941.00
+Latitud: 22.783546 | Longitud: -102.615455
+Satélites: 06
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150942.00
+Latitud: 22.783542 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150943.00
+Latitud: 22.783538 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150944.00
+Latitud: 22.783535 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150945.00
+Latitud: 22.783533 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2389.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150946.00
+Latitud: 22.783527 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2389.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150947.00
+Latitud: 22.783525 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2389.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150948.00
+Latitud: 22.783521 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2389.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150949.00
+Latitud: 22.783515 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2389.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150950.00
+Latitud: 22.783508 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150951.00
+Latitud: 22.783500 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150952.00
+Latitud: 22.783493 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150953.00
+Latitud: 22.783485 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150954.00
+Latitud: 22.783479 | Longitud: -102.615379
+Satélites: 05
+Altitud: 2389.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150955.00
+Latitud: 22.783473 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150956.00
+Latitud: 22.783470 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150957.00
+Latitud: 22.783464 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2389.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150958.00
+Latitud: 22.783456 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2390.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 150959.00
+Latitud: 22.783449 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2390.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151000.00
+Latitud: 22.783441 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2390.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151001.00
+Latitud: 22.783433 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2390.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151002.00
+Latitud: 22.783424 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2390.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151003.00
+Latitud: 22.783411 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2390.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151004.00
+Latitud: 22.783405 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2391.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151005.00
+Latitud: 22.783397 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2391.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151006.00
+Latitud: 22.783388 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2391.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151007.00
+Latitud: 22.783378 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2391.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151008.00
+Latitud: 22.783376 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2391.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151009.00
+Latitud: 22.783370 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2391.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151010.00
+Latitud: 22.783363 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2392.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151011.00
+Latitud: 22.783357 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2392.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151012.00
+Latitud: 22.783353 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2392.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151013.00
+Latitud: 22.783346 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2392.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151014.00
+Latitud: 22.783338 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2392.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151015.00
+Latitud: 22.783336 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2393.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151016.00
+Latitud: 22.783330 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2394.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151017.00
+Latitud: 22.783323 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2394.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151018.00
+Latitud: 22.783315 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2394.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151019.00
+Latitud: 22.783308 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2394.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151020.00
+Latitud: 22.783298 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2394.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151021.00
+Latitud: 22.783288 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2395.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151022.00
+Latitud: 22.783275 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2395.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151023.00
+Latitud: 22.783266 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2395.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151024.00
+Latitud: 22.783258 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2395.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151025.00
+Latitud: 22.783254 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2396.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151026.00
+Latitud: 22.783250 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2396.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151027.00
+Latitud: 22.783243 | Longitud: -102.615432
+Satélites: 06
+Altitud: 2396.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151028.00
+Latitud: 22.783241 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2397.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151029.00
+Latitud: 22.783241 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2397.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151030.00
+Latitud: 22.783233 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2397.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151031.00
+Latitud: 22.783229 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2398.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151032.00
+Latitud: 22.783227 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2398.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151033.00
+Latitud: 22.783229 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2398.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151034.00
+Latitud: 22.783229 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2398.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151035.00
+Latitud: 22.783231 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2399.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151036.00
+Latitud: 22.783231 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2399.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151037.00
+Latitud: 22.783226 | Longitud: -102.615432
+Satélites: 06
+Altitud: 2399.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151038.00
+Latitud: 22.783226 | Longitud: -102.615432
+Satélites: 06
+Altitud: 2399.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151039.00
+Latitud: 22.783227 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2400.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151040.00
+Latitud: 22.783227 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2400.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151041.00
+Latitud: 22.783226 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2400.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151042.00
+Latitud: 22.783227 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2401.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151043.00
+Latitud: 22.783229 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2401.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151044.00
+Latitud: 22.783227 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2401.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151045.00
+Latitud: 22.783224 | Longitud: -102.615455
+Satélites: 06
+Altitud: 2401.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151046.00
+Latitud: 22.783224 | Longitud: -102.615455
+Satélites: 06
+Altitud: 2401.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151047.00
+Latitud: 22.783222 | Longitud: -102.615463
+Satélites: 06
+Altitud: 2401.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151048.00
+Latitud: 22.783222 | Longitud: -102.615463
+Satélites: 06
+Altitud: 2402.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151049.00
+Latitud: 22.783226 | Longitud: -102.615455
+Satélites: 06
+Altitud: 2402.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151050.00
+Latitud: 22.783227 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2402.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151051.00
+Latitud: 22.783227 | Longitud: -102.615455
+Satélites: 06
+Altitud: 2403.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151052.00
+Latitud: 22.783231 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2403.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151053.00
+Latitud: 22.783233 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2403.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151054.00
+Latitud: 22.783233 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2404.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151055.00
+Latitud: 22.783233 | Longitud: -102.615447
+Satélites: 06
+Altitud: 2404.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151056.00
+Latitud: 22.783235 | Longitud: -102.615440
+Satélites: 06
+Altitud: 2404.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151057.00
+Latitud: 22.783250 | Longitud: -102.615425
+Satélites: 06
+Altitud: 2406.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151058.00
+Latitud: 22.783260 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2407.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151059.00
+Latitud: 22.783264 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2407.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151100.00
+Latitud: 22.783269 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2408.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151101.00
+Latitud: 22.783275 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2408.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151102.00
+Latitud: 22.783275 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2409.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151103.00
+Latitud: 22.783277 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2409.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151104.00
+Latitud: 22.783281 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2410.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151105.00
+Latitud: 22.783277 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2410.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151106.00
+Latitud: 22.783277 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2411.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151107.00
+Latitud: 22.783279 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2411.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151108.00
+Latitud: 22.783279 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151109.00
+Latitud: 22.783281 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151110.00
+Latitud: 22.783281 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151111.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2413.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151112.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2413.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151113.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2414.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151114.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2414.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151115.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2414.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151116.00
+Latitud: 22.783285 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2414.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151117.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2414.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151118.00
+Latitud: 22.783283 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151119.00
+Latitud: 22.783281 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151120.00
+Latitud: 22.783281 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151121.00
+Latitud: 22.783281 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151122.00
+Latitud: 22.783283 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151123.00
+Latitud: 22.783283 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151124.00
+Latitud: 22.783285 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2416.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151125.00
+Latitud: 22.783288 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2416.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151126.00
+Latitud: 22.783290 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2416.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151127.00
+Latitud: 22.783292 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2416.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151128.00
+Latitud: 22.783294 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2417.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151129.00
+Latitud: 22.783298 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2417.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151130.00
+Latitud: 22.783302 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2417.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151131.00
+Latitud: 22.783308 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2418.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151132.00
+Latitud: 22.783311 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2418.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151133.00
+Latitud: 22.783309 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151134.00
+Latitud: 22.783308 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151135.00
+Latitud: 22.783309 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151136.00
+Latitud: 22.783309 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151137.00
+Latitud: 22.783311 | Longitud: -102.615356
+Satélites: 06
+Altitud: 2417.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151138.00
+Latitud: 22.783313 | Longitud: -102.615356
+Satélites: 06
+Altitud: 2417.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151139.00
+Latitud: 22.783313 | Longitud: -102.615356
+Satélites: 06
+Altitud: 2417.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151140.00
+Latitud: 22.783317 | Longitud: -102.615348
+Satélites: 06
+Altitud: 2417.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151141.00
+Latitud: 22.783317 | Longitud: -102.615348
+Satélites: 06
+Altitud: 2417.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151142.00
+Latitud: 22.783317 | Longitud: -102.615348
+Satélites: 06
+Altitud: 2417.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151143.00
+Latitud: 22.783315 | Longitud: -102.615356
+Satélites: 06
+Altitud: 2417.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151144.00
+Latitud: 22.783311 | Longitud: -102.615356
+Satélites: 06
+Altitud: 2417.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151145.00
+Latitud: 22.783309 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151146.00
+Latitud: 22.783306 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2417.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151147.00
+Latitud: 22.783302 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2417.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151148.00
+Latitud: 22.783300 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2416.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151149.00
+Latitud: 22.783298 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2416.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151150.00
+Latitud: 22.783298 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2416.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151151.00
+Latitud: 22.783298 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2416.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151152.00
+Latitud: 22.783294 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2416.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151153.00
+Latitud: 22.783290 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2416.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151154.00
+Latitud: 22.783287 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2415.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151155.00
+Latitud: 22.783285 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2415.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151156.00
+Latitud: 22.783283 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2415.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151157.00
+Latitud: 22.783279 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2414.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151158.00
+Latitud: 22.783277 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2414.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151159.00
+Latitud: 22.783281 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2415.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151200.00
+Latitud: 22.783279 | Longitud: -102.615402
+Satélites: 05
+Altitud: 2415.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151201.00
+Latitud: 22.783279 | Longitud: -102.615394
+Satélites: 05
+Altitud: 2415.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151202.00
+Latitud: 22.783275 | Longitud: -102.615402
+Satélites: 05
+Altitud: 2414.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151203.00
+Latitud: 22.783271 | Longitud: -102.615402
+Satélites: 05
+Altitud: 2414.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151204.00
+Latitud: 22.783269 | Longitud: -102.615409
+Satélites: 05
+Altitud: 2414.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151205.00
+Latitud: 22.783277 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2415.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151206.00
+Latitud: 22.783285 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2416.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151207.00
+Latitud: 22.783294 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2417.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151208.00
+Latitud: 22.783294 | Longitud: -102.615371
+Satélites: 05
+Altitud: 2417.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151209.00
+Latitud: 22.783292 | Longitud: -102.615371
+Satélites: 05
+Altitud: 2417.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151210.00
+Latitud: 22.783292 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2417.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151211.00
+Latitud: 22.783292 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2416.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151212.00
+Latitud: 22.783290 | Longitud: -102.615371
+Satélites: 05
+Altitud: 2416.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151213.00
+Latitud: 22.783292 | Longitud: -102.615371
+Satélites: 05
+Altitud: 2416.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151214.00
+Latitud: 22.783292 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2416.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151215.00
+Latitud: 22.783292 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2416.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151216.00
+Latitud: 22.783292 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2416.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151217.00
+Latitud: 22.783294 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2416.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151218.00
+Latitud: 22.783292 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2416.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151219.00
+Latitud: 22.783290 | Longitud: -102.615364
+Satélites: 05
+Altitud: 2415.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151220.00
+Latitud: 22.783288 | Longitud: -102.615364
+Satélites: 06
+Altitud: 2415.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151221.00
+Latitud: 22.783281 | Longitud: -102.615371
+Satélites: 06
+Altitud: 2414.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151222.00
+Latitud: 22.783277 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2413.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151223.00
+Latitud: 22.783275 | Longitud: -102.615379
+Satélites: 06
+Altitud: 2413.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151224.00
+Latitud: 22.783271 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2412.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151225.00
+Latitud: 22.783267 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2412.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151226.00
+Latitud: 22.783266 | Longitud: -102.615386
+Satélites: 06
+Altitud: 2412.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151227.00
+Latitud: 22.783264 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151228.00
+Latitud: 22.783262 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151229.00
+Latitud: 22.783262 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151230.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151231.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151232.00
+Latitud: 22.783258 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151233.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151234.00
+Latitud: 22.783258 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151235.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151236.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151237.00
+Latitud: 22.783258 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151238.00
+Latitud: 22.783260 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151239.00
+Latitud: 22.783258 | Longitud: -102.615394
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151240.00
+Latitud: 22.783256 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151241.00
+Latitud: 22.783258 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2413.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151242.00
+Latitud: 22.783254 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2413.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151243.00
+Latitud: 22.783252 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2412.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151244.00
+Latitud: 22.783250 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2412.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151245.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2412.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151246.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2412.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151247.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2412.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151248.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151249.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151250.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151251.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151252.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151253.00
+Latitud: 22.783246 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151254.00
+Latitud: 22.783246 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151255.00
+Latitud: 22.783248 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151256.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151257.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151258.00
+Latitud: 22.783250 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151259.00
+Latitud: 22.783250 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151300.00
+Latitud: 22.783250 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151301.00
+Latitud: 22.783250 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151302.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151303.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151304.00
+Latitud: 22.783246 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151305.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151306.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151307.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151308.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151309.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151310.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151311.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151312.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151313.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151314.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2411.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151315.00
+Latitud: 22.783243 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151316.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151317.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151318.00
+Latitud: 22.783239 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151319.00
+Latitud: 22.783239 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151320.00
+Latitud: 22.783237 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2410.2 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151321.00
+Latitud: 22.783237 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2410.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151322.00
+Latitud: 22.783233 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151323.00
+Latitud: 22.783235 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151324.00
+Latitud: 22.783233 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151325.00
+Latitud: 22.783233 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151326.00
+Latitud: 22.783233 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151327.00
+Latitud: 22.783231 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151328.00
+Latitud: 22.783231 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151329.00
+Latitud: 22.783233 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.6 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151330.00
+Latitud: 22.783235 | Longitud: -102.615417
+Satélites: 06
+Altitud: 2409.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151331.00
+Latitud: 22.783237 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151332.00
+Latitud: 22.783239 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151333.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2410.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151334.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.3 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151335.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.5 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151336.00
+Latitud: 22.783243 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.7 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151337.00
+Latitud: 22.783243 | Longitud: -102.615409
+Satélites: 06
+Altitud: 2411.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151338.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2412.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151339.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2412.4 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151340.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2413.1 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151341.00
+Latitud: 22.783248 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2413.0 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151342.00
+Latitud: 22.783246 | Longitud: -102.615402
+Satélites: 05
+Altitud: 2412.9 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151343.00
+Latitud: 22.783245 | Longitud: -102.615402
+Satélites: 06
+Altitud: 2412.8 m
+---------------------
+
+----- Datos GPS -----
+Hora UTC: 151344.00
+Latitud: 22.783241 | Longitud: -102.615409
+Satélites: 05
+Altitud: 2412.7 m
+---------------------
+
